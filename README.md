@@ -13,3 +13,8 @@ Tutorial  Unity  2017.3 and Vuforia 7.0  on Augmented and Virtual reality   ( Mi
 
 
 [![Watch the video](https://img.youtube.com/vi/Ice2g8i8ZzU/0.jpg)](https://youtu.be/Ice2g8i8ZzU)
+
+
+## Can be start web Augmented reality
+
+Https://Webxr.edafait.com
